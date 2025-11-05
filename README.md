@@ -212,10 +212,10 @@
                         <h3>Facts</h3>
                         <p>I have a cat, his name is Nikas</p>
                     </div>
-                </div>
-            </div>
+                
+            
 
-        </section>
+        
 
         
 
