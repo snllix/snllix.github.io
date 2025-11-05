@@ -1,6 +1,7 @@
 
 <html lang="en">
 <head>
+    
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
@@ -167,20 +168,31 @@
         }
     </style>
 </head>
+
 <body>
+    
     <header>
+        
         <div class="brand">
+            
             <div class="logo"><img src="Black cat.jpg" alt="" width="46px"></div>
+            
             <div>
+                
                 <div style="font-weight:800">Shine</div>
+                
                 <div style="font-size:12px;color:rgba(5,56,37,0.6)"></div>
+                
             </div>
+            
         </div>
+        
         <nav aria-label="Main">
             <a href="#features">Cats</a>
             <a href="#examples">About me</a>
             <a href="#contact">contact me</a>
         </nav>
+        
     </header>
 
     <main class="container">
