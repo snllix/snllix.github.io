@@ -3,9 +3,8 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Shine</title>
     <style>
-        :root{
+        root{
             --bg1: #0b8f5a;
             --bg2: #cfffe3;
             --accent1: #60e3a2;
